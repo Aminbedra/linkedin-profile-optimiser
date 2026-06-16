@@ -1,0 +1,9 @@
+{
+  "name": "linkedin-profile-optimiser",
+  "description": "Audits, scores, and rewrites a LinkedIn profile section by section, then optionally produces an ATS-friendly CV in Word.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Amin Bedra"
+  },
+  "license": "MIT"
+}

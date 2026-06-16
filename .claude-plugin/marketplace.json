@@ -1,0 +1,17 @@
+{
+  "name": "amin-skills",
+  "owner": {
+    "name": "Amin Bedra"
+  },
+  "description": "Skills by Amin Bedra for B2B marketing, career, and growth workflows.",
+  "plugins": [
+    {
+      "name": "linkedin-profile-optimiser",
+      "source": "./",
+      "description": "Audits, scores, and rewrites a LinkedIn profile section by section, then optionally produces an ATS-friendly CV in Word.",
+      "version": "1.0.0",
+      "category": "career",
+      "tags": ["linkedin", "career", "marketing", "resume", "ats"]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[2026-06-16T20:16:55.508Z] GET http://127.0.0.1:34567/welcome → 200 (9ms, 8951B)
+[2026-06-16T20:16:55.520Z] GET https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap → 200 (2ms, -698B)
+[2026-06-16T20:16:55.520Z] GET https://api.fontshare.com/v2/css?f[]=satoshi@700,900&display=swap → 200 (3ms, -455B)
+[2026-06-16T20:16:55.553Z] GET https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K6z9mXg.woff2 → 200 (3ms, -814B)
+[2026-06-16T20:16:55.553Z] GET https://cdn.fontshare.com/wf/NHPGVFYUXYXE33DZ75OIT4JFGHITX5PE/PSUTMASCDJTVPERDYJZPN23BVUFUCQIF/J64QX5IPOHK56I2KYUNBQ5M2XWZEYKYX.woff2 → 200 (2ms, -1233B)
+[2026-06-16T20:16:55.553Z] GET https://cdn.fontshare.com/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2 → 200 (1ms, -1233B)
+[2026-06-16T20:16:55.554Z] GET https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwgknk-4.woff2 → 200 (2ms, -814B)
